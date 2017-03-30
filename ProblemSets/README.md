@@ -1,0 +1,2 @@
+# ProblemSets
+This directory contains materials for the problem sets for the course. There are three problem sets throughout the quarter: PS1, PS2, and PS3. Each of three sub-directories in the current directory corresponds to each problem set, respectively.
